@@ -1,4 +1,4 @@
-package by.magofrays
+package by.magofrays.lb1
 
 
 

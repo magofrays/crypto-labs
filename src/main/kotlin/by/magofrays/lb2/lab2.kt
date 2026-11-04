@@ -1,4 +1,4 @@
-package by.magofrays
+package by.magofrays.lb2
 
 fun main() {
 //    val SBlock1 = byteArrayOf(12, 14, 1, 0, 11, 5, 9, 7, 4, 10, 6, 8, 3, 13, 2, 15)
